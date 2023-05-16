@@ -1,0 +1,33 @@
+body{
+  font-size: 15px;
+  background-color: hsl(212, 45%, 89%);
+}
+
+#card {
+  border-radius: 10px;
+	width: 50vh;
+	height: 80vh;
+  margin: 0 auto;
+  background-color: white;
+
+}
+
+#img img{
+  width: 93%;
+  margin: 10px;
+  border-radius: 6px;
+}
+
+#bottom-section h3{
+  font-size: 22px;
+font-weight: 700;
+text-align: center;
+margin: 12px;
+}
+
+#bottom-section h4{
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+  margin: 12px;
+  margin-top: 16px;
+  }
